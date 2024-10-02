@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/TitleScene.unity
+    guid: 2707946e29980fb4488589d13c39dab0
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/MainMenu.unity
+    guid: 32067069d8c15db47b8eecb85a0c9d30
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/LevelSelect.unity
+    guid: 56dbbb9efeea6984b9b37e2d4d78dcf8
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/Level01.unity
+    guid: b56f4a70c9c5d354d8aafd61b700b738
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/Level02.unity
+    guid: cf62c9f2e93ddd84f819887a2f9776e1
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/TowerDefence.unity
+    guid: f06fc53ac896c3f4dbc468edbedaffa0
+  m_configObjects: {}
